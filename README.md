@@ -1,19 +1,27 @@
 # Hi, I'm Felicity 👋
 
-Data scientist building end-to-end data products for organizations across 
-industry, infrastructure, and the public sector. Currently completing my 
-**Engineering Doctorate (EngD)** in Data Science at **TU/e & JADS** 
-(graduating August 2026).
+AI & Data Consultant building end-to-end data products for organizations 
+across logistics, aviation, banking, international trade, and railways — 
+turning complex business challenges into scalable ML pipelines, automated workflows, AI agents, 
+and real-time dashboards.
 
-I focus on the part of data science that turns a question from a business 
-into a working system someone can actually use — from bridge fault prediction 
-at ProRail to domain risk intelligence for legal teams.
+🌍 Based in the Netherlands  
+🧩 Data Scientist · Alfa Laval × JADS  
+🌱 AI Consultant (volunteer) · CorrelAid Netherlands  
+💼 Open to roles in applied data science, AI consulting, and ML engineering  
+🔗 [felicityfan.com](https://felicityfan.com) · [LinkedIn](https://linkedin.com/in/felicityfan)
 
-🌍 Based in Netherlands · 🎓 EngD at TU/e × JADS · 📨 Open to roles 
-in applied data science, AI consulting, and ML engineering.
+---
 
-🔗 [felicityfan.com](https://felicityfan.com) · 
-[LinkedIn](https://linkedin.com/in/felicityfan)
+## 📌 Selected projects
+
+| Project | What it does | Built for |
+|---|---|---|
+| [adtpy](https://github.com/Fan-shiyu/adtpy) / [adt (R)](https://github.com/Fan-shiyu/Multivariate-Cosine-Similarity) | Open-source Python and R packages implementing a multivariate cosine similarity method for dataset comparison and anomaly detection. | Research community |
+| [Nova Dominium](https://github.com/Fan-shiyu/Nova_Dominium) | Automated domain due-diligence tool with risk scoring, WHOIS/DNS/TLS enrichment, and PDF evidence reports. | Legal & compliance teams |
+| [Smart Bridge Dashboard](https://github.com/Fan-shiyu/Smart_Bridge_Dashboard) | Real-time bridge monitoring linking sensor data, weather, and train delays into predictive maintenance alerts via Power BI. | ProRail (Dutch rail infrastructure) |
+| [Air Cargo Capacity](https://github.com/Fan-shiyu/Air_Cargo_Capacity) | PySpark data pipeline estimating theoretical air cargo capacity from flight events and aircraft reference data, with a Streamlit dashboard. [Live app →](https://aircargocapacity.streamlit.app/) | Aviation / logistics |
+| [Environmental Time Series](https://github.com/SensingClues/environmental-time-series) | R Shiny app for exploring NDVI vegetation trends and burned area analysis across conservation zones in Africa and Europe using ESA Sentinel-2 and MODIS data. | SensingClues (wildlife conservation NGO) |
 
 ---
 
@@ -52,25 +60,6 @@ in applied data science, AI consulting, and ML engineering.
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-## 📌 Selected projects
-
-| Project | What it does | Built for |
-|---|---|---|
-| [Nova Dominium](https://github.com/Fan-shiyu/Nova_Dominium) | Automated domain due-diligence with risk scoring and PDF evidence reports. [Live demo →](https://domain-vault-probe.lovable.app/) | Legal & compliance teams |
-| [Smart Bridge Dashboard](https://github.com/Fan-shiyu/Smart_Bridge_Dashboard) | Real-time bridge monitoring linking sensor data, weather, and train delays into predictive maintenance alerts. | ProRail (Dutch rail infrastructure) |
-| [Insurance Claim Optimization](https://github.com/Fan-shiyu/Insurance_Claim_Optimization) | ML-driven prioritization of insurance claim investigations. | Insurance sector |
-| [adtpy](https://github.com/Fan-shiyu/adtpy) / [adt (R)](https://github.com/Fan-shiyu/Multivariate-Cosine-Similarity) | Open-source packages implementing a multivariate cosine similarity method for time-series and dataset comparison. | Research community |
-
----
-
-## 🌱 Currently
-
-Building an ML pipeline (Metaflow + MLflow) with monitoring and scenario 
-analysis as my EngD graduation project at **Alfa Laval**. Also leading 
-**Growing Roots** — a volunteer data science project at **CorrelAid NL**.
 
 ---
 
