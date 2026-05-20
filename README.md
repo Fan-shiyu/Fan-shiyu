@@ -42,6 +42,12 @@ and real-time dashboards.
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Metaflow](https://img.shields.io/badge/Metaflow-FF6B6B?style=flat&logo=netflix&logoColor=white)
 
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 **Data Engineering**
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
@@ -63,7 +69,5 @@ and real-time dashboards.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
-
-## 📊 GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fan-shiyu&theme=default&hide_border=true)](https://git.io/streak-stats)
