@@ -1,4 +1,5 @@
-# Hi, I'm Felicity 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&width=300&lines=Hi%2C+I'm+Felicity+👋)](https://git.io/typing-svg)
 
 AI & Data Consultant building end-to-end data products for organizations 
 across logistics, aviation, banking, international trade, and railways — 
