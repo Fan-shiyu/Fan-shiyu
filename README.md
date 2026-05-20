@@ -18,7 +18,7 @@ and real-time dashboards.
 
 | Project | What it does | Built for |
 |---|---|---|
-| [adtpy](https://github.com/Fan-shiyu/adtpy) / [adt (R)](https://github.com/Fan-shiyu/Multivariate-Cosine-Similarity) | Open-source Python and R packages implementing a multivariate cosine similarity method for dataset comparison and anomaly detection. | Research community |
+| [adtpy](https://github.com/Fan-shiyu/adtpy) / [adt (R)](https://github.com/Fan-shiyu/Multivariate-Cosine-Similarity) | Open-source Python and R packages implementing a multivariate cosine similarity method for dataset comparison. | Research community |
 | [Nova Dominium](https://github.com/Fan-shiyu/Nova_Dominium) | Automated domain due-diligence tool with risk scoring, WHOIS/DNS/TLS enrichment, and PDF evidence reports. | Legal & compliance teams |
 | [Smart Bridge Dashboard](https://github.com/Fan-shiyu/Smart_Bridge_Dashboard) | Real-time bridge monitoring linking sensor data, weather, and train delays into predictive maintenance alerts via Power BI. | ProRail (Dutch rail infrastructure) |
 | [Air Cargo Capacity](https://github.com/Fan-shiyu/Air_Cargo_Capacity) | PySpark data pipeline estimating theoretical air cargo capacity from flight events and aircraft reference data, with a Streamlit dashboard. [Live app →](https://aircargocapacity.streamlit.app/) | Aviation / logistics |
